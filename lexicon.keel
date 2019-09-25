@@ -1,0 +1,234 @@
+Index
+BANR: media/index-singularity.jpg
+BODY:
+&  ~Rutherford Craze~ is a type designer currently based in Falmouth, UK. Draws letters, writes code. Interested in systems and human–object interaction. [More info →](/about)
+& This website, like all things, is [temporary.](/stonecarving)
+&
+—
+? Type design
+$ Type
+&
+? Graphic design
+$ Design
+
+404
+UNDE: None
+BODY:
+? The page could not be found
+—
+& You could try searching for it (click the page title), or return to the [[Index]].
+
+No Results
+UNDE: None
+BODY:
+? 404
+—
+& There's no page matching your search term. You could try a different search, or return to the [[Index]].
+
+About
+BANR: media/about-rutherford.jpg
+BODY:
+& Hey, I'm Rutherford, a graphic and type designer currently in Falmouth, UK. I'm interested in the use of visual design, particularly type, to augment written language. That and just making pretty shapes. Also into coffee, spaceflight, writing, sneakers, etc.
+& [Email](mailto:rutherford@craze.co.uk) / [Twitter](https://twitter.com/rutherfordcraze) / [Insta](https://www.instagram.com/rjqjc/)
+—
+&  MA Type and Media<br>Royal Academy of Arts, The Hague (2018–19)
+&  BA Graphic Design<br>Falmouth University, UK (2015–18)
+
+Keelback
+BODY:
+? Keelback is a website engine.
+& Built from scratch in Python and deployed on the [Zeit](https://zeit.co/) serverless platform, Keelback dynamically assembles webpages from template files.
+& It uses a markup language derived from Devine Lu Linvega's [Runic](https://wiki.xxiivv.com/#runic) templating language.
+& Below is the markup used to describe this page:
+> Keelback
+> BODY: 
+> ? Keelback is a website engine.
+> & Built from scratch in Python and deployed on the [Zeit](https://zeit.co/) serverless platform, Keelback dynamically assembles webpages from template files.
+> & It uses a markup language derived from Devine Lu Linvega's [Runic](https://wiki.xxiivv.com/#runic) templating language.
+> & Below is the markup used to describe this page:
+> > (Recursion)
+
+Type
+BODY:
+? Type design projects
+$ Type
+
+Greymarch
+UNDE: Type
+BANR: media/greymarch-banner-v.png
+BODY:
+? A workhorse serif for editorial design.
+& My graduation project for TypeMedia, Greymarch is a robust text serif in eight styles.
+& The typeface draws on a traditional humanist calligraphic model, while rationalising it with more contemporary proportions and shapes. The stroke of a broad-edged pen is apparent in the typeface, particularly the counters of round glyphs, but this is balanced by an outer contour which approaches mechanical symmetry.
+: media/greymarch-waterfall.png
+& While the number of styles is fairly small, Greymarch's character set is decidedly larger. I concentrated on versatility in typesetting from early in the project, with manually-drawn (rather than automatically generated) small caps and a wide range of diacritics. The roman styles support 89 languages, with 470+ glyphs per master. Greymarch's vertical metrics were defined from the start to allow room for the generously-sized diacritics which keep the typeface legible at small sizes.
+&
+? Spreads from the Greymarch process/specimen book:
+: media/greymarch-p62_63.png
+: media/greymarch-p74_75.png
+: media/greymarch-p76_77.png
+: media/greymarch-p90_91.png
+: media/greymarch-p102_103.png
+& Greymarch was created between February and July 2019.
+—
+& With heartfelt thanks to my teachers at TypeMedia: Erik van Blokland, Peter Verheul, Paul van der Laan, Frank Grießhammer, Peter Biľak, Petr van Blokland, Françoise Berserik, Jan Willem Stas, Kristyan Sarkis, Ilya Ruderman, Just van Rossum and Fred Smeijers. Thanks also to my classmates, visiting lecturers, friends of the course, my mum, and everyone at Filtro Koffie.
+
+UAT-1
+UNDE: Type
+BODY:
+? Untitled Arabic Typeface.
+& The result of the TypeMedia first semester's Arabic type design workshop with Kristyan Sarkis. Although this typeface remains unnamed and unreleased, it was a valuable exploration of the Arabic writing system, its diverse styles, and its implementation as a digital font.
+: media/uat-word.jpg
+: media/uat-paragraph.jpg
+
+Apothek
+UNDE: Type
+BODY:
+? A typeface in four styles.
+& Part of my first semester at [TypeMedia](https://typemedia.org) was a project involving the creation of a typeface in multiple styles. Apothek is my response to this project, with serif, sans, display, and italic cuts.
+: media/apothek-animated.gif
+: media/apothek-milkwood.jpg
+: media/apothek-sans.jpg
+: media/apothek-display.jpg
+
+Battalion
+UNDE: Type
+BODY:
+? Battalion is a characterful monospace typeface.
+& My final degree project at Falmouth University.
+& Taking its name from the regimented, uniform appearance of soldiers and of monospace letters, Battalion is a wide typeface with grotesque influences. It has full support for 26+ languages with 280+ characters, along with drafts for a Cyrillic character set.
+& Pages from the Battalion Mono specimen:
+: media/battalion-page_01.jpg
+: media/battalion-page_02.jpg
+: media/battalion-page_03.jpg
+: media/battalion-page_04.jpg
+
+Chasmata
+UNDE: Type
+BODY:
+? Chasmata is an interlocking display typeface.
+& It makes use of OpenType features and contextual alternates to ensure any letter combination will interlock.
+: media/chasmata-specimen_01.png
+& Each word typed in Chasmata fits into the silhouette of a rectangle, with letters adapting to fill the negative space between them.
+: media/chasmata-specimen_02.png
+: media/chasmata-specimen_03.png
+
+Heliumgold
+UNDE: Type
+BODY:
+? Helium/Gold is an experimental variable font with extreme width contrast.
+& Named after two chemical elements known for their respective light and heavy weights, Helium/Gold started out as some simple custom lettering for another project, before developing into a complete three-master typeface.
+& In its intermediate weights, He/Au is a solid display sans with a slightly cyberpunk aesthetic. At either end of its broad spectrum, it becomes something entirely different: at its most condensed, an oddly-proportioned barcode; at its most extended, a dense space-filler with minimal legibility.
+: media/heliumgold-anderson.png
+: media/heliumgold-scifi.png
+
+M74
+UNDE: Type
+BODY:
+? M74 — (Messier 74; NGC 628)
+& A spiral galaxy in the Pisces constellation; A retrofuturistic serif typeface, inspired by classic science fiction.
+: media/m74-splash.jpg
+& M74 is a typeface designed to feel at home on the cover of ’70s sci-fi novels, or the posters of optimistic space operas from the subsequent decades. It’s simultaneously clunky and finessed, with broad, inelegant strokes complimented by delicate ink traps and serif endings.
+: media/m74-numerals.jpg
+
+Weiss Antiqua
+UNDE: Type
+BODY:
+? A modern revival of a typeface by Emil Rudolf Weiß.
+& A project from my first semester at [TypeMedia](https://typemedia.org) — to revive a historical typeface from a printed book. I revived Weiß Antiqua, a distinctive typeface cut at the Bauer Typefoundry in Frankfurt am Main, 1928.
+& This project involved researching the historical context and heritage of the typeface, as well as digitising it and making alterations to adapt it to modern technologies and use cases.
+: media/weiss-scans.gif
+& The above scans are all of the same typeface, but differences in optical size, version, and printing method make the end results vary greatly. Much of the challenge of this project was in identifying the 'real' face of the type.
+: media/weiss-bauer_01.jpg
+: media/weiss-bauer_02.jpg
+: media/weiss-standard-standard.jpg
+
+Design
+UNDE: None
+BODY:
+? Graphic design projects
+$ Design
+
+Vu
+UNDE: Design
+BODY:
+? A new look for an old friend.
+& Back in 2014, I applied for work experience with Vu Online, a local web design studio. What started as a week in the office quickly turned into a part-time job, and I worked as their Chief of Stuff for the next eighteen months — right up until I left for university. In 2016, I was happy to hear that they were planning to rebrand, and even more delighted when they asked me to collaborate with them on the project.
+& I worked closely with the team at Vu to determine the shortfalls of their former identity and establish what their actual target audience was, along with how a new identity could better appeal to it. The result was a much more playful, less masculine approach which features large blocks of colour, modern typography and subtly-animated isometric illustrations.
+: media/vu-logo.gif
+& The logo is a geometric abstraction on Vu's name, intended to be versatile with regard to colour and size. I produced a series of playful alternate logos highlighting the different areas of Vu's practice, as SVG format to reduce load times on the website.
+: media/vu-illustrations.png
+& I also produced a number of illustrations for use around the website, both larger-format header designs and isometric icons to represent different services Vu offers. These are again implemented as SVGs on the web, which allows them to be subtly animated.
+: media/vu-business-cards.png
+& I collaborated with the Vu team on their business cards and other print materials. The website itself was built by Vu in-house (which makes sense, since they're a web design firm), but I worked closely with them to define the layout and type spec.
+: media/vu-website.jpg
+& You can [view the live website here.](https://vuonline.co.uk)
+
+B-Side
+UNDE: Design
+BODY:
+? A festival of underground creative works.
+& The B-Side is a collective organised by Photography and Creative Events Management students at Falmouth University. It aims to provide a platform for creatives to display and share their work, as well as network and build an audience. I oversaw their visual identity in the leadup to their first major event, an eponymous creative festival.
+& The most substantial part of the identity is the typography: a combination of Eurostile Extended and Linotype Americana, two distinctly contrasting typefaces, represent two ends of a broad stylistic spectrum. This contrast makes the diversity of B-Side’s exhibited work seem more intentional than simply trying to fit it all into a grid with Helvetica.
+: media/bside-business-cards.jpg
+& B-Side’s combination business card/flyers were printed onto 300gsm black card stock with white ink. The speckle pattern, used elsewhere as a background texture and brand element, is unique on every card.
+: media/bside-poster.jpg
+& The festival’s advertising relied on a number of posters — old vinyl records, the b-sides of which were screen printed with B-Side’s details. Most of these were almost immediately stolen, which I have taken as a compliment.
+: media/bside-map.jpg
+& The B-Side Festival took place in five locations simultaneously, with an after-party at a sixth. I used public GIS data from OpenStreetMap to create an accurate, scalable vector map to direct attendees to the various sites.
+
+Nominal
+UNDE: Design
+BODY:
+? A fictional video game for the Nintendo Famicom.
+& My entry into [Meteor's](https://super-meteor.com) 2018 _My Famicase Exhibition_ in Tokyo. Nominal is a game about orbital mechanics and the laws of physics. Take on the role of a spacecraft commander, exploring the inner planets of the Solar System. Time your manoeuvres, optimise your fuel usage, and conquer the planets in this slow-paced puzzle for 1 player.
+: media/nominal-cartridge.png
+& I created the textures by hand, using finely-ground charcoal dropped onto white paper. All the Latin type is custom; the Japanese subtitle is not. Although it wasn't required for the Famicase expo, I also designed a poster featuring an alternative planet illustration.
+& Nominal was exhibited at the SF Gallery, Tokyo, in April–May 2018. You can view the other entries [on the Famicase website.](http://famicase.com/18/index.html)
+: media/nominal-triple.png
+& Thanks to Meteor for hosting the Famicase exhibition, and to [Hangedman](https://twitter.com/JonahD) for helping me out with translations.
+
+Super Marsupial
+UNDE: Design
+BODY:
+? A(nother) fictional video game for the Nintendo Famicom.
+& My entry into [Meteor's](https://super-meteor.com) 2019 _My Famicase Exhibition_ in Tokyo. Super Marsupial is a game about being a kangaroo.
+& You’ve got the strongest legs on the continent — now it’s time to use them. Leap across the outback in search of rare and exotic flowers, but watch your step: if you trip up, anything kept in your pouch will fall out!
+: media/super_marsupial-cartridge.png
+& The 'hero' lettering is custom, with supporting latin type set in a combination of Neue Haas Grotesk, Univers, and Forma DJR, mostly just to be difficult. As with last year's entry, [[Nominal]], I also designed a poster and some alternate lettering styles.
+: media/super_marsupial-triple.png
+& Nominal was exhibited at the SF Gallery, Tokyo, in April–May 2019. You can view the other entries [on the Famicase website.](http://famicase.com/19/index.html)
+: media/super_marsupial-timelapse.mp4
+
+Gravity
+UNDE: Design
+BODY:
+: media/gravity-logo.png
+& Gravity is an amateur eSports team set up by a friend of mine. I provided the logomark and branding for the team as a pet project, drawing on the bold, instantly-memorable shapes of The Designers Republic for the wipEout series in particular. The mark attempts to be both futuristic and nostalgic, striking a balance which can resonate uniquely with the gaming community.
+& Custom-modified lettering helps unify and optimise the wordmark — I used a font with variable weight to find the specific boldness which most closely harmonised with the logomark, then manually spaced the letters and modified them to fit.
+: media/gravity-type.gif
+& I produced two versions of the logo, at two different optical sizes: a tight-fitting, high-contrast mark is bold and dramatic, while a looser version with more open negative spaces keeps readability high at small sizes.
+: media/gravity-opsz.gif
+& I also made a set of brand guidelines, to serve as a reference for future work. It provides references for typography (which uses macOS system fonts to avoid licensing issues for such a low-budget project), along with information on when to use the different optical sizes, and the guidelines themselves are an example of how a Gravity-branded document would be arranged.
+: media/gravity-brand-guide.gif
+
+Example
+UNDE: None
+BODY:
+! H1 Text
+? H2 Text
+& Paragraph
+- Unordered list
+- Unordered list
+= Ordered List
+= Ordered List
+> Preformatted
+& `Inline preformatted`
+$ Index
+
+Stonecarving
+UNDE: None
+BODY:
+? Everything, in time, will cease to be.
+: media/tm-stonecarving.jpg
+& Battalion Mono carved onto a paving slab.<br>This was my stonecarving project for the [Type and Media](https://typemedia.org) MA program, under the supervision of Françoise Berserik.

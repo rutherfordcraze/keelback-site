@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "builds": [
+        {"src": "*.py", "use":"@now/python"},
+        {"src": "media/*.*", "use":"@now/static"},
+        {"src": "style/*.*", "use":"@now/static"}
+    ],
+    "routes": [
+        { "src": "/(.+)\\.(.+)", "dest": "/$1.$2" },
+        { "src": "/(.+)", "dest": "/" }
+    ]
+}
